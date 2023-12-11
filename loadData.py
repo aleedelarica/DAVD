@@ -54,3 +54,4 @@ def get_historical_data_for_range(ticker,start_date,end_date):
     historical_data.reset_index(inplace=True)
 
     return historical_data
+
